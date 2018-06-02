@@ -19,11 +19,11 @@ sudo make install
 
 ## Usage
 
-To use this input method plugin, set `QT_IM_METHOD` to `onboard`.
+To use this input method plugin, set `QT_IM_MODULE` to `onboard`.
 For example you can add
 
 ```
-export QT_IM_METHOD=onboard
+export QT_IM_MODULE=onboard
 ```
 
 to `~/.profile`.
